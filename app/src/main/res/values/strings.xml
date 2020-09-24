@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ClassSix</string>
+    <string-array name="country">
+        <item>"Bangladesh"</item>
+        <item>"India"</item>
+        <item>"Pakistan"</item>
+        <item>"Bhutan"</item>
+        <item>"Bangladesh"</item>
+        <item>"India"</item>
+        <item>"Pakistan"</item>
+        <item>"Bhutan"</item>
+
+    </string-array>
+
+</resources>
